@@ -1,0 +1,5 @@
+{
+  "port": 3000,
+  "mongoUri": "mongodb+srv://egor:123@devcluster-tcnjq.mongodb.net/app?retryWrites=true&w=majority",
+  "jwtSecret": "secret"
+}
